@@ -1,0 +1,17 @@
+https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html
+http://www.aqualab.cs.northwestern.edu/classes/EECS343/eecs-343-f11/lectures/10-MemMgmt.pdf
+http://www.math-cs.gordon.edu/courses/cs322/lectures/memory.html
+https://quizlet.com/78468299/csis-2260-final-chapters-7-8-11-flash-cards/
+http://faculty.simpson.edu/lydia.sinapova/www/cmsc335/cmsc335-01/CH07-Memory.htm
+https://www.coursehero.com/file/p6sua4b/Strengths-Weaknesses-Fixed-Partitioning-Main-memory-is-divided-into-a-number-of/
+https://www.cs.helsinki.fi/u/kerola/kj2/stal-01_slides_figs/T7-Vertical.pdf
+https://quizlet.com/86565115/os-final-flash-cards/
+http://http-server.carleton.ca/~atulai/os/notes/Lecture13-4spp.pdf
+https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html
+https://cseweb.ucsd.edu/classes/fa06/cse120/lectures/120-fa06-l10.pdf
+http://www.doc.ic.ac.uk/~ob3/Teaching/OperatingSystemsConcepts/Chapter08-4up.pdf
+http://www.shsu.edu/csc_tjm/cs431/Chap09TJM.html
+http://courses.cs.vt.edu/~cs3204/spring2003/srinidhi/notes/mm_6.pdf
+https://www.unf.edu/public/cop4610/ree/Notes/PPT/PPT8E/CH%2007%20-OS8e.pdf
+http://http-server.carleton.ca/~atulai/os/notes/Lecture13-4spp.pdf
+https://books.google.com/books?id=dY25RaFVM9oC&pg=PA275&lpg=PA275&dq=fixed+sized+partition+no+longer+used+by+IBM+OS/360&source=bl&ots=bzNM1HmkXG&sig=62asImmQuamk7uGfKy6d4mVTQYE&hl=en&sa=X&ved=0ahUKEwi3luSo4a_LAhUBmx4KHZaoA6cQ6AEIPDAF#v=onepage&q=fixed%20sized%20partition%20no%20longer%20used%20by%20IBM%20OS%2F360&f=false
